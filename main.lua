@@ -1,3 +1,3 @@
 local composer = require "composer"
 
-composer.gotoScene( "cena1" )
+composer.gotoScene( "cena3" )
